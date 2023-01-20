@@ -1,0 +1,4 @@
+/* 96px je vyska navigace poskladane vertikalne na malych zarizenich - bez marginu jsou na sm zarizenich H2 a prip. tlacitko schovane pod navigaci*/
+.container {
+	margin-top: 96px;
+}
